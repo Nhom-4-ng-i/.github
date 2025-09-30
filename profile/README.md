@@ -11,11 +11,11 @@ Dự án được thực hiện bởi nhóm sinh viên trong học phần **Phá
 **Giảng viên hướng dẫn môn học:** Hoàng Lê Hải Thanh  
 
 ## 📂 Repositories trong tổ chức
-- `[book-exchange-docs](https://github.com/Nhom-4-ng-i/Exchange-old-books)`: là nơi lưu trữ tài liệu như: giới thiệu đề tài, khảo sát, phân tích yêu cầu, thiết kế và báo cáo liên quan khác,... .  
+- [`book-exchange-docs`](https://github.com/Nhom-4-ng-i/book-exchange-docs): là nơi lưu trữ tài liệu như: giới thiệu đề tài, khảo sát, phân tích yêu cầu, thiết kế và báo cáo liên quan khác,... .  
 
-- `book-exchange-fe`: là nơi chứa các mã nguồn frontend của ứng dụng di động.  
+- [`book-exchange-fe`](https://github.com/Nhom-4-ng-i/book-exchange-fe): là nơi chứa các mã nguồn frontend của ứng dụng di động.  
 
-- `book-exchange-be`: là nơi chứa các mã nguồn backend như xây dựng API, xử lý logic nghiệp vụ và quản lý cơ sở dữ liệu.  
+- [`book-exchange-be`](https://github.com/Nhom-4-ng-i/book-exchange-be): là nơi chứa các mã nguồn backend như xây dựng API, xử lý logic nghiệp vụ và quản lý cơ sở dữ liệu.  
 
 ## 🎯 Định hướng dự án
 Ứng dụng được nhóm phát triển với mục tiêu trở thành nền tảng **trao đổi – mua bán sách cũ dành riêng cho sinh viên**, giải quyết những hạn chế của hình thức rao vặt trên Facebook/Zalo hiện nay.  
@@ -29,4 +29,5 @@ Dự án được thực hiện bởi nhóm sinh viên trong học phần **Phá
 
 ## ✨ Ý nghĩa dự án
 Với dự án này, nhóm không chỉ hoàn thành yêu cầu học phần, mà còn mong muốn tạo ra một sản phẩm **có tính thực tiễn cao**, giúp sinh viên tiết kiệm chi phí, giảm lãng phí sách và khuyến khích tinh thần chia sẻ tri thức trong cộng đồng học tập.  
+
 
